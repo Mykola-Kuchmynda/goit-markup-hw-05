@@ -566,6 +566,9 @@ img {
 .modal-form-comment:focus {
   border-color: #4d5ae5;
 }
+.form-comment {
+  margin-bottom: 16px;
+}
 
 /* #endregion */
 /* #region checkbox */
